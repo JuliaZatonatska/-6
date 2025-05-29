@@ -4,18 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa4662af-80b3-487b-9b45-42a545d60b58" name="Changes" comment="коміт1" />
+    <list default="true" id="aa4662af-80b3-487b-9b45-42a545d60b58" name="Changes" comment="коміт5">
+      <change afterPath="$PROJECT_DIR$/дз6/дз6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Hacatoon1" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2tLNGrBLguddhV7dx4I1F9kXfSF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "julia1"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -93,7 +103,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740130746465</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="коміт2">
+      <option name="closed" value="true" />
+      <created>1740130828546</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740130828546</updated>
+    </task>
+    <task id="LOCAL-00008" summary="коміт3">
+      <option name="closed" value="true" />
+      <created>1740130874715</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740130874715</updated>
+    </task>
+    <task id="LOCAL-00009" summary="коміт4">
+      <option name="closed" value="true" />
+      <created>1740130892838</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740130892838</updated>
+    </task>
+    <task id="LOCAL-00010" summary="коміт5">
+      <option name="closed" value="true" />
+      <created>1740130926387</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740130926387</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -103,6 +145,10 @@
     <MESSAGE value="коміт 4 (черепашка долає незгоди)" />
     <MESSAGE value="коміт 5 (хороший кінец і мораль історії)" />
     <MESSAGE value="коміт1" />
-    <option name="LAST_COMMIT_MESSAGE" value="коміт1" />
+    <MESSAGE value="коміт2" />
+    <MESSAGE value="коміт3" />
+    <MESSAGE value="коміт4" />
+    <MESSAGE value="коміт5" />
+    <option name="LAST_COMMIT_MESSAGE" value="коміт5" />
   </component>
 </project>
