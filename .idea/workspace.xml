@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa4662af-80b3-487b-9b45-42a545d60b58" name="Changes" comment="коміт5">
-      <change afterPath="$PROJECT_DIR$/input01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input03.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз6/дз6.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз6/дз6.py" afterDir="false" />
-    </list>
+    <list default="true" id="aa4662af-80b3-487b-9b45-42a545d60b58" name="Changes" comment="коміт5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +37,11 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Пайтон\проекти\Lab6\дз6" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
